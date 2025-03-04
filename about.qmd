@@ -9,7 +9,7 @@ title: "About the training school"
 
 **David Spáčil**  
 *Institute of Archaeology, Czech Acad Sci, Brno*  
-[{{< ai orcid >}} 0000-0001-7050-9572](https://orcid.org/0000-0001-7050-9572)
+[{{< ai orcid >}} 0009-0002-8856-2501](https://orcid.org/0009-0002-8856-2501)
 
 :::
 ::: {.column width=50%}
@@ -40,7 +40,8 @@ And the **AIS CR** team members...
 ### Any questions?
 
 Please direct any of your possible questions or inquiries to  
-**Zuzana Kopáčová** ([kopacova@arub.cz &#9993;](mailto:kopacova@arub.cz)), and/or  ....
+**Zuzana Kopáčová** ([kopacova@arub.cz &#9993;](mailto:kopacova@arub.cz)), and/or  
+**David Spáčil** ([spacil@arub.cz &#9993;](mailto:spacil@arub.cz))
 
 
 ## Organisations
@@ -52,7 +53,7 @@ The training (summer) school is organised as transnational access provision in t
 {{< video https://www.youtube.com/watch?v=KBE7ws6tQhE >}}
 
 
-### ARIADNE 
+<!--### ARIADNE 
 
 [ARIADNE Research Infrastructure](https://www.ariadne-research-infrastructure.eu/){.external} is a non-profit organisation that aggregates, integrates, and provides access to over 4 million archaeological data resources. 
 Access is facilitated through the comprehensive data catalogue [ARIADNE Portal](https://portal.ariadne-infrastructure.eu/){.external} (see the short video below for more details) and directly through a SPARQL endpoint to the linked-open data triple store, the ARIADNE Knowledge Base.
@@ -61,7 +62,7 @@ One of the goals of the training school is to enable *programmatic* access to th
 
 {{< video https://vimeo.com/1015562684 >}}
 
-
+-->
 ### AIS CR 
 
 The [Archaeological Information System of the Czech Republic (AIS CR)](https://www.aiscr.cz/en/){.external} is a research infrastructure integrating digital resources and services on archaeology in the Czech Republic, and as such is one of many data providers in the ARIADNE Research Infrastructure. 
