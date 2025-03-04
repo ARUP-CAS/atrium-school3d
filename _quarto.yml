@@ -9,7 +9,7 @@ website:
   navbar:
     logo: figs/BrandmarkSunbleached.png
     background: "#2C6D2B"
-    # foreground: "#E8DAC8"
+    foreground: "#edfded"
     pinned: true
     left:
       - href: index.qmd
@@ -39,7 +39,7 @@ website:
     foreground: "#E8DAC8"
     left: 
       - href: https://www.quarto.org/
-        text: "Build with &#9825; in Quarto."
+        text: "Built with &#9825; in Quarto."
     center:
       - text: "Licenses: MIT (code) & CC BY-SA 4.0 Int. (other content)."
     right: 
