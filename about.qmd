@@ -8,13 +8,16 @@ title: "About the training school"
 ::: {.column width=50%}
 
 **David Spáčil**  
-*Institute of Archaeology, Czech Acad Sci, Brno*  
+*Czech Academy of Sciences, Institute of Archaeology, Brno*  
 [{{< ai orcid >}} 0009-0002-8856-2501](https://orcid.org/0009-0002-8856-2501)
+
 
 :::
 ::: {.column width=50%}
 
-
+**Jiří Unger**  
+*Czech Academy of Sciences, Institute of Archaeology, Prague*  
+[{{< ai orcid >}} 0000-0001-5784-9169](https://orcid.org/0000-0001-5784-9169)
 
 :::
 ::::
@@ -48,7 +51,11 @@ Please direct any of your possible questions or inquiries to
 
 ### ATRIUM
 
+::::{.justify}
+
 The training (summer) school is organised as transnational access provision in the [ATRIUM Project](https://atrium-research.eu/){.external} (*Advancing Frontier Research in the Arts and Humanities*) funded by the Horizon Europe research and innovation actions programme under grant agreement No. [101132163](https://cordis.europa.eu/project/id/101132163){.external}.
+
+::::
 
 {{< video https://www.youtube.com/watch?v=KBE7ws6tQhE >}}
 
@@ -65,8 +72,12 @@ One of the goals of the training school is to enable *programmatic* access to th
 -->
 ### AIS CR 
 
+::::{.justify}
+
 The [Archaeological Information System of the Czech Republic (AIS CR)](https://www.aiscr.cz/en/){.external} is a research infrastructure integrating digital resources and services on archaeology in the Czech Republic, and as such is one of many data providers in the ARIADNE Research Infrastructure. 
 AIS CR is jointly operated by the Institutes of Archaeology of the Czech Academy of Sciences in [Brno (IAB)](https://www.arub.cz/){.external} and [Prague (IAP)](https://www.arup.cas.cz/){.external}.
+
+::::
 
 
 ### 
