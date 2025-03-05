@@ -15,3 +15,7 @@ code.sourceCode {
 code.cellOutput {
   font-size: 108% !important;
 }
+
+p {
+    text-align: justify;
+}
