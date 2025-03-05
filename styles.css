@@ -16,6 +16,6 @@ code.cellOutput {
   font-size: 108% !important;
 }
 
-p {
+.justify {
     text-align: justify;
 }
