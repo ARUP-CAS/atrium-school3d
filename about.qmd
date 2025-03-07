@@ -85,24 +85,26 @@ AIS CR is jointly operated by the Institutes of Archaeology of the Czech Academy
 [![](figs/Clay.png){fig-align="center" width=60%}](https://atrium-research.eu)
 
 :::: {.columns}
-::: {.column width=40%}
-[![](figs/aiscr.png)](https://www.aiscr.cz/en/)
+::: {.column width=45%}
+[![](figs/arub.png)](https://www.arub.cz/)
+
 :::
 ::: {.column width=10%}
 :::
 ::: {.column width=45%}
-[![](figs/ariadne.png)](https://www.ariadne-research-infrastructure.eu/)
+[![](figs/arup.png)](https://www.arup.cz/)
 :::
 ::::
 
 
+
 :::: {.columns}
-::: {.column width=50%}
-[![](figs/arub.png)](https://www.arub.cz/)
-:::
-::: {.column width=10%}
-:::
 ::: {.column width=40%}
+[![](figs/aiscr.png)](https://www.aiscr.cz/en/)
+:::
+::: {.column width=15%}
+:::
+::: {.column width=45%}
 ![](figs/eu.png)
 :::
 ::::
