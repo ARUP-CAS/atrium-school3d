@@ -12,15 +12,15 @@ website:
     foreground: "#edfded"
     pinned: true
     left:
-      - href: index.qmd
-        text: Home
-        icon: house-door
-      # - href: info.qmd
-      #   text: General info
-      #   icon: info-circle
-      # - href: applications.qmd
-      #   text: Applications
-      #   icon: envelope-paper
+        - href: index.qmd
+          text: Home
+          icon: house-door
+        - href: info.qmd
+          text: General info
+          icon: info-circle
+        - href: applications.qmd
+          text: Applications
+          icon: envelope-paper
       # - href: programme.qmd
       #   text: Programme
       #   icon: calendar4
