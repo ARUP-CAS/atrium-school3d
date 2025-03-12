@@ -54,9 +54,8 @@ To receive the grant, participants need to:
 ## Prerequisites
 
 - **Bring your own laptop!**
-- Bring a **camera** (or a phone with good camera) you feel comfortable with.
-- Install **R** and **RStudio** (follow the concise quide [here](https://rstudio-education.github.io/hopr/starting.html)).  
-  *If you are familiar with R, feel free to use a GUI of your choice.*
+- Bring a **camera** (or a phone with a good camera) you feel comfortable with (a wide-angle lens is preferred).
+- Install [**RealityCapture**](https://www.capturingreality.com/DownloadNow), a free 3D photogrammetry software.  
 
 ## Other information
 
