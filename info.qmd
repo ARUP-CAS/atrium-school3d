@@ -53,9 +53,11 @@ To receive the grant, participants need to:
 
 ## Prerequisites
 
-- **Bring your own laptop!**
+<!-- - **Bring your own laptop!**
 - Bring a **camera** (or a phone with a good camera) you feel comfortable with (a wide-angle lens is preferred).
-- Install [**RealityCapture**](https://www.capturingreality.com/DownloadNow), a free 3D photogrammetry software.  
+- Install [**RealityCapture**](https://www.capturingreality.com/DownloadNow), a free 3D photogrammetry software.  -->
+
+*Will be added.*
 
 ## Other information
 
