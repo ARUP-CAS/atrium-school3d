@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://ARUP-CAS.github.io/atrium-school3d/index.html</loc>
-    <lastmod>2025-03-07T09:36:36.605Z</lastmod>
+    <loc>https://ARUP-CAS.github.io/atrium-school3d/info.html</loc>
+    <lastmod>2025-03-14T08:12:26.287Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ARUP-CAS.github.io/atrium-school3d/applications.html</loc>
+    <lastmod>2025-03-12T12:55:48.312Z</lastmod>
   </url>
   <url>
     <loc>https://ARUP-CAS.github.io/atrium-school3d/about.html</loc>
-    <lastmod>2025-03-07T09:54:07.719Z</lastmod>
+    <lastmod>2025-03-12T12:05:35.513Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ARUP-CAS.github.io/atrium-school3d/index.html</loc>
+    <lastmod>2025-03-12T12:04:29.101Z</lastmod>
   </url>
 </urlset>
