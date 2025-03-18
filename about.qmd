@@ -11,6 +11,10 @@ title: "About the training school"
 *Czech Academy of Sciences, Institute of Archaeology, Brno*  
 [{{< ai orcid >}} 0009-0002-8856-2501](https://orcid.org/0009-0002-8856-2501)
 
+**Vojtěch Nosek**  
+*Masaryk University, Faculty of Arts, Department of Archaeology and Museology*  
+[{{< ai orcid >}} 0000-0002-0760-6713](https://orcid.org/0000-0002-0760-6713)
+
 
 :::
 ::: {.column width=50%}
@@ -18,6 +22,10 @@ title: "About the training school"
 **Jiří Unger**  
 *Czech Academy of Sciences, Institute of Archaeology, Prague*  
 [{{< ai orcid >}} 0000-0001-5784-9169](https://orcid.org/0000-0001-5784-9169)
+
+**Martin Košťál**  
+*Masaryk University, Faculty of Arts, Department of Archaeology and Museology*  
+[{{< ai orcid >}} 0000-0001-9218-8917](https://orcid.org/0000-0001-9218-8917)
 
 :::
 ::::
