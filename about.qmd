@@ -15,6 +15,10 @@ title: "About the training school"
 *Masaryk University, Faculty of Arts, Department of Archaeology and Museology*  
 [{{< ai orcid >}} 0000-0002-0760-6713](https://orcid.org/0000-0002-0760-6713)
 
+**Tomáš Chlup**  
+*Czech Academy of Sciences, Institute of Archaeology, Prague*  
+[{{< ai orcid >}} 0000-0003-3179-992X](https://orcid.org/0000-0003-3179-992X)
+
 
 :::
 ::: {.column width=50%}
