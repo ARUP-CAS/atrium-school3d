@@ -19,6 +19,7 @@ Please note that this is an on-site event only, and remote participation will **
 
 ```{r}
 #| echo: false
+#| warning: false
 library(leaflet)
 
 # ARUB location
@@ -48,16 +49,17 @@ To receive the grant, participants need to:
 
 1. **Apply via the official form** of the ATRIUM Project (see the [Applications](applications.qmd) section for details).
 2. **Participate in person**, i.e. sign attendance sheets for each training day.
-3. **Submit a report** within a given time frame after the conclusion of the school with details of their participation.
+3. **Submit a report** within a given time frame after the conclusion of the school with details of their participation. *Please note that the grant will be disbursed only upon the successful submission of this report*.
 
 
 ## Prerequisites
 
-<!-- - **Bring your own laptop!**
-- Bring a **camera** (or a phone with a good camera) you feel comfortable with (a wide-angle lens is preferred).
-- Install [**RealityCapture**](https://www.capturingreality.com/DownloadNow), a free 3D photogrammetry software.  -->
+- **Bring your own laptop!**
+- Bring a **camera** (or a phone with a good camera) you feel comfortable with.
+    - When choosing from multiple lenses, wide-angle lenses are generally more suitable for the documentation of historic monuments. For artefact documentation, standard lenses (with a focal length around 50mm) are recommended.
+- **Install** [**RealityScan**](https://www.realityscan.com/en-US/download), a free 3D photogrammetry software.
 
-*Will be added.*
+*Note: RealityScan **requires** a Windows computer with CUDA-enabled NVIDIA graphics card. If your system does not meet these requirements, you can download and install alternative software solutions. The most user-friendly alternative is [3DF Zephyr Free](https://www.3dflow.net/3df-zephyr-free/), which supports importing a maximum of 50 photos only. Another alternative (significantly slower and less user-friendly) is [MeshroomCL](https://github.com/openphotogrammetry/meshroomcl).*
 
 ## Other information
 
@@ -66,10 +68,9 @@ To receive the grant, participants need to:
 Brno is easily reachable by trains or buses from Prague (approx. a 2 to 2.5-hour journey) and Vienna (approx. a 1.5 to 2-hour journey). 
 Many overnight trains crossing a large part of Europe start or end in Vienna, and we recommend taking these trains as an alternative to flying.
 
-<!-- ### Accommodation -->
+### Accommodation
 
-<!-- No accommodation is provided to participants. -->
-<!-- Please arrange your accommodation in one of many cities hotels or hostels. -->
+No accommodation is provided to participants. Please arrange your accommodation in one of many cities hotels or hostels.
 <!-- We will add some tips for places close to the venue. -->
 
 ### Food
