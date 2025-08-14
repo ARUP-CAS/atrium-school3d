@@ -57,7 +57,8 @@ To receive the grant, participants need to:
 - **Bring your own laptop!**
 - Bring a **camera** (or a phone with a good camera) you feel comfortable with.
     - When choosing from multiple lenses, wide-angle lenses are generally more suitable for the documentation of historic monuments. For artefact documentation, normal lenses (with a focal length around 50mm) are recommended.
-- **Install** [**RealityScan**](https://www.realityscan.com/en-US/download), a free 3D photogrammetry software.
+- **Install** [**RealityScan**](https://www.realityscan.com/en-US/download), a free 3D photogrammetry software, [**Blender**](https://www.blender.org/download/), and [**CloudCompare**](https://cloudcompare.org/).
+- We advise you to bring a spare USB stick and memory card(s) as well. 
 
 *Note: RealityScan **requires** a Windows computer with CUDA-enabled NVIDIA graphics card. If your system does not meet these requirements, you can download and install alternative software solutions. The most user-friendly alternative is [3DF Zephyr Free](https://www.3dflow.net/3df-zephyr-free/), which supports importing a maximum of 50 photos only. Another alternative (significantly slower and less user-friendly) is [MeshroomCL](https://github.com/openphotogrammetry/meshroomcl).*
 
