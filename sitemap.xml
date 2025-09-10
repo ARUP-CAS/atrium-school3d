@@ -2,22 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://ARUP-CAS.github.io/atrium-school3d/programme.html</loc>
-    <lastmod>2025-07-16T10:57:10.448Z</lastmod>
+    <lastmod>2025-09-10T11:42:24.845Z</lastmod>
   </url>
   <url>
-    <loc>https://ARUP-CAS.github.io/atrium-school3d/index.html</loc>
-    <lastmod>2025-06-28T06:51:19.224Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ARUP-CAS.github.io/atrium-school3d/about.html</loc>
-    <lastmod>2025-07-03T11:07:46.651Z</lastmod>
+    <loc>https://ARUP-CAS.github.io/atrium-school3d/info.html</loc>
+    <lastmod>2025-08-14T08:09:14.025Z</lastmod>
   </url>
   <url>
     <loc>https://ARUP-CAS.github.io/atrium-school3d/applications.html</loc>
     <lastmod>2025-07-03T11:04:36.440Z</lastmod>
   </url>
   <url>
-    <loc>https://ARUP-CAS.github.io/atrium-school3d/info.html</loc>
-    <lastmod>2025-08-14T08:09:14.025Z</lastmod>
+    <loc>https://ARUP-CAS.github.io/atrium-school3d/about.html</loc>
+    <lastmod>2025-07-03T11:07:46.651Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ARUP-CAS.github.io/atrium-school3d/index.html</loc>
+    <lastmod>2025-06-28T06:51:19.224Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ARUP-CAS.github.io/atrium-school3d/materials.html</loc>
+    <lastmod>2025-09-08T08:37:29.266Z</lastmod>
   </url>
 </urlset>
