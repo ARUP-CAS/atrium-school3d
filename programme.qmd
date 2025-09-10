@@ -3,7 +3,7 @@ title: "Training school programme"
 ---
 
 ::: {.column-page-inset-left}
-![*Provisional programme*](figs/atrium_programme.svg){width=100%} 
+![*Provisional programme*](figs/atrium_programme.png){width=100%} 
 :::
 
 
