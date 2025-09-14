@@ -5,31 +5,31 @@ title: "Materials and data"
 
 ## Monday, 15 Sept.
 
-#### Introduction to 3D models in archaeology
+#### *Understanding 3D: From Space to Artefacts*: Introduction to 3D for Archaeology and Heritage 
+*(V. Nosek)*
 
-- [Presentation](#) 
-- Dataset [dartpoints.csv](#)
+- [Presentation](https://docs.google.com/presentation/d/1CZqxuOK1-8AXO6Rt2NNl2ijVAoOc4xdu/edit?usp=sharing&ouid=105203881160814331075&rtpof=true&sd=true) 
 
-#### Focus, Dial and (try to) Stay sane. Photography in archaeology beyond AUTO mode.
+#### Focus, Dial and (try to) Stay sane. Photography in archaeology beyond AUTO mode
+*(T. Chlup)*
 
-- [Presentation](#)
+- [Presentation](https://docs.google.com/presentation/d/1V6DoAY2A8qDP2a-tzQPR47pQY7el0frr6xf4ZSMOkxQ/edit?usp=sharing)
 
 
-## Tuesday, 16 Sept.
+<!--## Tuesday, 16 Sept.
 
 #### 3D documentation of historic monuments
 
 - [Presentation](https://docs.google.com/presentation/d/1y_fQC3R8ok1O75jx28aq2rDXIE7gpRepzB6RkcJbyBE/edit?slide=id.p#slide=id.p)
-- Datasets
-    1. Petrov1_subset ([images only](https://drive.google.com/file/d/1pVFbqa67kfBq8kDbxKYS-qhVpJq76qwx/view?usp=sharing) ~1.3 GB; [project + images](https://drive.google.com/file/d/1izm_ZqTLCtTDt07t5LXhmZFOXDyi9Cwu/view?usp=sharing) ~11 GB; [Sketchfab](https://sketchfab.com/3d-models/petrov1-subset--cut-2e5eea10077d4661b8ae6bfa7a16b455))
-        - Sample dataset used throughout the presentation
-        - Only 97 out of 362 photos were used for processing speed increase (you can find all 362 photos [here](https://drive.google.com/drive/folders/1qQ7qBAnWT-Kfl777oudALCr7qmOtILZl?usp=sharing))
+- Dataset: Petrov1_subset ([images only](https://drive.google.com/file/d/1pVFbqa67kfBq8kDbxKYS-qhVpJq76qwx/view?usp=sharing) ~1.3 GB; [project + images](https://drive.google.com/file/d/1izm_ZqTLCtTDt07t5LXhmZFOXDyi9Cwu/view?usp=sharing) ~11 GB; [Sketchfab](https://sketchfab.com/3d-models/petrov1-subset--cut-2e5eea10077d4661b8ae6bfa7a16b455))
+    - Sample dataset used throughout the presentation
+    - Only 97 out of 362 photos were used for processing speed increase (you can find all 362 photos [here](https://drive.google.com/drive/folders/1qQ7qBAnWT-Kfl777oudALCr7qmOtILZl?usp=sharing))
     1. Petrov2 ([images only](https://drive.google.com/file/d/1_vOQX-40uikzp-K9BBA6W4C2ZWBXaVDj/view?usp=sharing) ~1.9 GB; [project + images](https://drive.google.com/file/d/1He3_PAsxj-8QTh04NdcwVEzMlzQ1AhS1/view?usp=sharing) ~11 GB; [Sketchfab](https://sketchfab.com/3d-models/petrov2--filtered-5d5c7f6d4fc14b8fada8f9cabbccbbae))
         - Smaller dataset from the start (more even distribution of camera positions)
     1. Petrov3 ([images only](https://drive.google.com/file/d/1LQmpHwfwPz_lKXsBzsOqnC5EJhSl_V2d/view?usp=sharing) 286 MB; [project + images](https://drive.google.com/file/d/1PLyjS_Q59UgpzRfIQUHiW0Pf0SXS6yVw/view?usp=sharing) ~3.5 GB; [Sketchfab](https://sketchfab.com/3d-models/petrov3--cut-0d4f632b08c946d699b6a8c6b10195b5))
         - This is an example of what not to do (changing light conditions, harsh shadows, not to scale); even then the resulting model is somewhat usable
 
-![Models scaling reference (PRO tip: don't forget to bring your tape measure/scale bar/markers, so you don't have to use Sportisimo loyalty card)](figs/scaling.png)
+![Models scaling reference (PRO tip: don't forget to bring your tape measure/scale bar/markers, so you don't have to use the Sportisimo loyalty card)](figs/scaling.png)
 
 ## Wednesday, 17 Sept.
 
@@ -37,5 +37,5 @@ title: "Materials and data"
 ## Thursday, 18 Sept.
 
 
-## Friday, 19 Sept.
+## Friday, 19 Sept.-->
 
