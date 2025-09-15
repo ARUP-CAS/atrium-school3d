@@ -26,6 +26,11 @@ This lecture explores the current possibilities of 3D documentation of cultural 
 
 :::{.justify}
 Day two will take participants directly into the field. The morning will be dedicated to the practical documentation of standing historic monuments, allowing attendees to gain valuable hands-on experience with data collection in a real-world environment. In the afternoon, the focus will shift to the processing of the collected data, where participants will learn how to transform photographs into accurate 3D models.
+
+::: {.callout-note}
+We'll meet [here](https://maps.app.goo.gl/befsDeAF1yLgjCrt9) at 9:30 AM. 
+:::
+
 :::
 
 ### Day 3: 3D Documentation of Artefacts
