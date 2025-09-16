@@ -15,6 +15,11 @@ title: "Materials and data"
 
 - [Presentation](https://docs.google.com/presentation/d/1V6DoAY2A8qDP2a-tzQPR47pQY7el0frr6xf4ZSMOkxQ/edit?usp=sharing)
 
+#### *Scanning the Past*. Photogrammetry, LiDAR, and HBIM in Archaeology and Heritage Care
+*(L. Starková)*
+
+{{< video https://www.youtube.com/watch?v=vsP7oYA0Z6c >}}
+
 
 ## Tuesday, 16 Sept.
 
