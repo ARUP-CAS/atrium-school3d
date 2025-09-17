@@ -33,10 +33,17 @@ title: "Materials and data"
 
 ![Models scaling reference (PRO tip: don't forget to bring your tape measure/scale bar/markers, so you don't have to use the Sportisimo loyalty card)](figs/scaling.png)
 
-<!--
+
 
 ## Wednesday, 17 Sept.
 
+#### 3D Documentation of Artefacts
+
+- [3D Scanning and Photogrammetry in Archaeology: Theory and Practice – presentation](https://docs.google.com/presentation/d/1IHL41SsEZLWB1zM2745DaRn_E60uHTWX/edit?usp=sharing&ouid=105203881160814331075&rtpof=true&sd=true)
+- [Photogrammetry practical – presentation](https://docs.google.com/presentation/d/1hRycJCZHOxB130kU-Ijs6T_Ck3H8WxRL/edit?usp=sharing&rtpof=true&sd=true)
+- [Data](https://drive.google.com/file/d/1TRnM3OE8JWx9Pw0rJzmAvlB7bW1e552M/view?usp=sharing)
+
+<!--
 
 ## Thursday, 18 Sept.
 
