@@ -51,6 +51,13 @@ title: "Materials and data"
 
 - [Presentations zip](https://drive.google.com/file/d/1WqVUBVMqEYrCpf1a7buO55MrFA_gNKqT/view?usp=sharing) (~5.2 GB)
 
+
+#### Texture creation with RealityScan
+
+{{< video https://www.youtube.com/watch?v=00eHKPaaoRo 
+    title='RealityCapture Tutorial: Making Seamless Texture From Scans' 
+>}}
+
 <!--
 
 ## Friday, 19 Sept.
