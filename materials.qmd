@@ -24,6 +24,7 @@ title: "Materials and data"
 ## Tuesday, 16 Sept.
 
 #### 3D documentation of historic monuments
+*(D. Spáčil)*
 
 - [Presentation](https://docs.google.com/presentation/d/1y_fQC3R8ok1O75jx28aq2rDXIE7gpRepzB6RkcJbyBE/edit?slide=id.p#slide=id.p)
 - Dataset: Petrov1_subset ([images only](https://drive.google.com/file/d/1pVFbqa67kfBq8kDbxKYS-qhVpJq76qwx/view?usp=sharing) ~1.3 GB; [project + images](https://drive.google.com/file/d/1izm_ZqTLCtTDt07t5LXhmZFOXDyi9Cwu/view?usp=sharing) ~11 GB; [Sketchfab](https://sketchfab.com/3d-models/petrov1-subset--cut-2e5eea10077d4661b8ae6bfa7a16b455))
@@ -38,6 +39,7 @@ title: "Materials and data"
 ## Wednesday, 17 Sept.
 
 #### 3D Documentation of Artefacts
+*(V. Nosek)*
 
 - [3D Scanning and Photogrammetry in Archaeology: Theory and Practice – presentation](https://docs.google.com/presentation/d/1IHL41SsEZLWB1zM2745DaRn_E60uHTWX/edit?usp=sharing&ouid=105203881160814331075&rtpof=true&sd=true)
 - [Photogrammetry practical – presentation](https://docs.google.com/presentation/d/1hRycJCZHOxB130kU-Ijs6T_Ck3H8WxRL/edit?usp=sharing&rtpof=true&sd=true)
@@ -48,9 +50,14 @@ title: "Materials and data"
 ## Thursday, 18 Sept.
 
 #### Virtual Archaeology
+*(J. Unger)*
 
 - [Presentations zip](https://drive.google.com/file/d/1WqVUBVMqEYrCpf1a7buO55MrFA_gNKqT/view?usp=sharing) (~5.2 GB)
 
+#### From 3D scan to virtual reconstruction
+*(M. Košťál)*
+
+- [Presentation](https://docs.google.com/presentation/d/1oQU1cEDKKvLCveYmUYccWLWlmZoE5FQ3/edit?usp=sharing&ouid=105203881160814331075&rtpof=true&sd=true)
 
 #### Texture creation with RealityScan
 
@@ -63,3 +70,7 @@ title: "Materials and data"
 ## Friday, 19 Sept.
 
 -->
+
+## Additional resources
+
+- [RealityScan YouTube channel](https://www.youtube.com/playlist?list=PL56jeA0rCS3LWuahdfIFWp1d0WDuEKVqe) with tutorials
