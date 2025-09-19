@@ -58,6 +58,13 @@ title: "Materials and data"
 *(M. Košťál)*
 
 - [Presentation](https://docs.google.com/presentation/d/1oQU1cEDKKvLCveYmUYccWLWlmZoE5FQ3/edit?usp=sharing&ouid=105203881160814331075&rtpof=true&sd=true)
+- Recommended software/addons
+    - [PureRef](https://www.pureref.com/) (reference image tool)
+    - [Magnific AI](https://magnific.ai/) (image upscaler/enhancer)
+    - [Bledner addons market](https://superhivemarket.com/)
+    - [GeoScatter](https://geoscatter.com/) and [Botaniq](https://superhivemarket.com/products/botaniq-trees) for vegetation
+    - [Blender Studio](https://studio.blender.org/welcome/) for *paid* but priceless tutorials
+- Feel free to contact Martin at his email address (462845 [at] muni.cz), should you need something
 
 #### Texture creation with RealityScan
 
