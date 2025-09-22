@@ -1,0 +1,20 @@
+---
+title: "Insights and recap"
+---
+
+We had 18 participants working and/or studying at universities, museums and other research institutions across Europe!
+
+![Map of participants' countries](figs/map.png){fig-align="center" width="80%"}
+
+## Photos
+
+![Group photo in front of the Cathedral of St. Peter and Paul.](figs/photo01.jpg){.shadow}
+
+
+## Reports by the participants
+
+```{r}
+#| echo: false
+read.csv(here::here("reports/list.csv")) |>
+  knitr::kable()
+```
