@@ -2,7 +2,7 @@
 title: "Insights and recap"
 ---
 
-We had 18 participants working and/or studying at universities, museums and other research institutions across Europe!
+We had 18 participants working and/or studying at universities, museums and other research institutions from near and far!
 
 ![Map of participants' countries](figs/map.png){fig-align="center" width="80%"}
 
