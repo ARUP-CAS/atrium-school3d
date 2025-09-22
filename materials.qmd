@@ -81,3 +81,4 @@ title: "Materials and data"
 ## Additional resources
 
 - [RealityScan YouTube channel](https://www.youtube.com/playlist?list=PL56jeA0rCS3LWuahdfIFWp1d0WDuEKVqe) with tutorials
+- [SketchFab](https://sketchfab.com/), a platform for 3D model presentation
