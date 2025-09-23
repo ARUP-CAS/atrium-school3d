@@ -10,6 +10,12 @@ We had 18 participants working and/or studying at universities, museums and othe
 
 ![Group photo in front of the Cathedral of St. Peter and Paul.](figs/photo01.jpg){.shadow}
 
+## Showcase
+
+```{=html}
+<div class="sketchfab-embed-wrapper"> <iframe title="Column Base from Brno’s Petrov Cathedral" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/fb0a64f849404a2e8d2a5c5f072a852a/embed" style="width: 100%; aspect-ratio: 3 / 2;"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/column-base-from-brnos-petrov-cathedral-fb0a64f849404a2e8d2a5c5f072a852a?utm_medium=embed&utm_campaign=share-popup&utm_content=fb0a64f849404a2e8d2a5c5f072a852a" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Column Base from Brno’s Petrov Cathedral </a> by <a href="https://sketchfab.com/p_staszkiewicz?utm_medium=embed&utm_campaign=share-popup&utm_content=fb0a64f849404a2e8d2a5c5f072a852a" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> p_staszkiewicz </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=fb0a64f849404a2e8d2a5c5f072a852a" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
+```
+
 
 ## Reports by the participants
 
