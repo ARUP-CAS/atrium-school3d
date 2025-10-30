@@ -72,6 +72,8 @@ title: "Materials and data"
     title='RealityCapture Tutorial: Making Seamless Texture From Scans' 
 >}}
 
+- For a more serious workflow of a PBR texture creation using photogrammetry, see [this tutorial](https://blog.polyhaven.com/photoscanned-texture-creation-process/)
+
 <!--
 
 ## Friday, 19 Sept.
