@@ -1,0 +1,45 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: ATRIUM 3D training school
+message: 'If you use this software, please cite it as below.'
+type: software
+authors:
+  - given-names: David
+    family-names: Spáčil
+    email: spacil@arub.cz
+    affiliation: >-
+      Czech Academy of Sciences, Institute of Archaeology,
+      Brno
+    orcid: 'https://orcid.org/0009-0002-8856-2501'
+  - given-names: Vojtěch
+    family-names: Nosek
+    email: 330862@mail.muni.cz
+    affiliation: Masaryk University
+    orcid: 'https://orcid.org/0000-0002-0760-6713'
+  - given-names: Tomáš
+    family-names: Chlup
+    email: chlup@arup.cas.cz
+    affiliation: >-
+      Czech Academy of Sciences, Institute of Archaeology,
+      Prague
+    orcid: 'https://orcid.org/0000-0003-3179-992X'
+  - given-names: Jiří
+    family-names: Unger
+    email: unger@arup.cas.cz
+    affiliation: >-
+      Czech Academy of Sciences, Institute of Archaeology,
+      Prague
+    orcid: 'https://orcid.org/0000-0001-5784-9169'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.17881545
+repository-code: 'https://github.com/ARUP-CAS/atrium-school3d'
+url: 'https://arup-cas.github.io/atrium-school3d/'
+abstract: >-
+  Repository contains an ATRIUM 3D training school website
+  and materials.
+license: CC-BY-SA-4.0
+version: v1.0
+date-released: '2025-12-10'
